@@ -1,0 +1,21 @@
+1. Area of a Circle
+Formula: π × r^2
+
+2. Area of a Triangle
+Formula: 1/2 × base × height
+
+3. Area of a Rectangle
+​Formula: length × width
+
+4. Area of an Isosceles Triangle
+Formula: 1/2 × base × height
+
+5. Area of a Parallelogram
+Formula: base × height
+
+6. Area of a Rhombus
+Formula: 1/2 × diagonal1 × diagonal2
+
+7. Area of an Equilateral Triangle
+Formula: root3/4 × side^2
+
