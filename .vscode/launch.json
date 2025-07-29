@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EncodeDecodeString",
+            "request": "launch",
+            "mainClass": "HashMaps.EncodeDecodeString",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "CharHashing",
+            "request": "launch",
+            "mainClass": "HashMaps.CharHashing",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "HashMaps.Solution",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "HashMethods",
+            "request": "launch",
+            "mainClass": "HashMaps.HashMethods",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "Put",
+            "request": "launch",
+            "mainClass": "HashMaps.HashMethods.Put",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "FreqMap",
+            "request": "launch",
+            "mainClass": "HashMaps.FreqMap",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "CountNum",
+            "request": "launch",
+            "mainClass": "HashMaps.CountNum",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "HashMaps.Count",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
+            "name": "Hashcode",
+            "request": "launch",
+            "mainClass": "HashMaps.Hashcode",
+            "projectName": "DSA_7f73d8ac"
+        },
+        {
+            "type": "java",
             "name": "MaxHeap",
             "request": "launch",
             "mainClass": "MaxHeap",
