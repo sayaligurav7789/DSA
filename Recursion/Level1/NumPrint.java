@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Level1;
 
 public class NumPrint {
     public static void main(String[] args) {

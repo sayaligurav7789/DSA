@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Level1;
 
 public class fact {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Level1;
 
 public class NtoOne {
     public static void main(String[] args) {
